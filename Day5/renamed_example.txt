@@ -1,0 +1,24 @@
+Day-wise Syllabus
+Days 1–10: Python programming
+Day 1: Introduction to Python
+Topics: Python setup, IDEs, syntax basics, variables, and data types.
+Hands-On: Install Python, set up Jupyter Notebook or VSCode, and write basic print and input commands.
+Case Study: Write a simple program for a restaurant that takes orders and prints out a receipt.
+Day 2: Control Flow
+Topics: Conditional statements (if-else), loops (for, while), and logical operators.
+Hands-On: Write a guessing game using loops and conditions.
+Case Study: Create a simple calculator that performs basic arithmetic based on user input.
+Day 3: Data Structures
+Topics: Lists, dictionaries, tuples, and sets.
+Hands-On: Create a contact book using dictionaries.
+Case Study: Build a to-do list application with list and dictionary functionalities.
+Day 4: Functions and Modules
+Topics: Defining functions, lambda functions, import modules.
+Hands-On: Write functions for calculating statistics (mean, median).
+Case Study: Write a script that imports a module to analyze customer survey data.
+Day 5: File Handling and Exception Management
+Topics: Reading and writing files, handling exceptions.
+Hands-On: Write code to read and write a CSV file.
+Case Study: Build a mini-database by storing and retrieving user information from files.
+
+Appending a new line to the file.
