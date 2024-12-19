@@ -1,3 +1,0 @@
-This is an example of writing to a file.
-Appending a new line to the file.
-Appending a new line to the file.
